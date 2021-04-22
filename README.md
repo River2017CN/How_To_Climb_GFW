@@ -13,3 +13,5 @@ A simple tip teach you how to f**k the GFW.
 - 可白嫖的节点：  
 https://raw.githubusercontent.com/pojiezhiyuanjun/freev2/master/0000clash.yml  
 其中0000替换为当天日期（如4月22日写0422，每天晚上更新即可，如果拉取不到可以换前一天的日期试试）
+## 详细步骤
+[Android](https://github.com/River2017CN/How_To_Climb_GFW/issues/1)
